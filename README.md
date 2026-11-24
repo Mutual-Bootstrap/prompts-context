@@ -6,9 +6,10 @@ The focus is not on storing knowledge itself, but on improving how humans and AI
 
 ## Tips
 
-1. Use the [AI Bootstrap Prompt](https://github.com/Mutual-Bootstrap/prompts-context/blob/main/AI%20Bootstrap%20Prompt.md) at the start of a chat to get your LLM using the right paradigms.
-2. Use your own private bootstrap prompts to tailor for your own individual style and circumstances.
-3. Use the [Repository Distillation Prompt](https://github.com/Mutual-Bootstrap/prompts-context/blob/main/Repository%20Distillation.md) when you've had a conversation that you want to pull back into one of this organisation's repositories.
+- Use the [AI Bootstrap Prompt](https://github.com/Mutual-Bootstrap/prompts-context/blob/main/AI%20Bootstrap%20Prompt.md) at the start of a chat to get your LLM using the right paradigms.
+- Use your own private bootstrap prompts to tailor for your own individual style and circumstances.
+- Use the [Repository Distillation Prompt](https://github.com/Mutual-Bootstrap/prompts-context/blob/main/Repository%20Distillation.md) when you've had a conversation that you want to pull back into one of this organisation's repositories.
+- The [Technical Assurance Assessment Prompt](https://github.com/Mutual-Bootstrap/prompts-context/blob/main/Technical%20Assurance%20Assessment.md) might come in handy if you're trying to review or assure some design work.
 
 ## Further Work
 
